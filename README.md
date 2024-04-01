@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilda003&show_icons=true&locale=en" alt="hilda003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilda003&" alt="hilda003" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c8d446c3203c87931f9c99?variant=dark)](https://roadmap.sh)
